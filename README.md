@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Yasar, a B.Tech student in Artificial Intelligence & Data Science.<br>I enjoy learning by building projects and exploring how data and AI can solve real-world problems.<br><br>🔭 I’m currently working on<br><br>Practicing Python for Data Science including AI<br><br>Small projects related to data analysis and visualization<br><br>🤝 I’m looking to collaborate on<br><br>Beginner-friendly open-source projects<br><br>Data analysis / visualization projects<br><br>Simple AI or ML projects where I can learn by contributing<br><br>🆘 I’m looking for help with<br><br>Writing clean and efficient Python code<br><br>Understanding Data Structures<br><br>Getting started with open-source contributions (GSoC path)<br><br>🌱 I’m currently learning<br><br>Python libraries: Pandas, NumPy<br><br>SQL for data handling<br><br>Core concepts of AI & Data Science<br><br>💬 Ask me about<br><br>Python <br><br>Data cleaning and visualization<br><br>Power BI<br><br>Student life in AI & Data Science<br><br>⚡ Fun fact<br><br>I enjoy learning things deeply
+Al & Data Science student passionate about Python projects and data visualization.<br>Looking to collaborate on beginner-friendly open-source contributions.<br>Currently learning Pandas, NumPy & SQL for real-world problem solving.<br>Fun fact: I love diving deep into how things work.
 
 
 ## 🌐 Socials:
