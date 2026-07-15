@@ -80,15 +80,15 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mithin-Sriram&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasar-17&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithin-Sriram&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasar-17&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mithin-Sriram&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yasar-17&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -121,7 +121,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mithin-Sriram&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasar-17&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -141,11 +141,11 @@
 
 ### 🤝 Let's Connect and Build Something Amazing!
 
-<a href="https://www.linkedin.com/in/mithin-sriram">
+<a href="https://www.linkedin.com/in/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:mithinsriram24@gmail.com">
+<a href="mailto:mohammedyasar990@gmail.com">
 <img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail"/>
 </a>
 
