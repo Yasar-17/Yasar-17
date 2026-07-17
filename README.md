@@ -28,7 +28,7 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/mohammed-yasar-m">
+<a href="https://www.linkedin.com/in/your-linkedin-handle">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -41,6 +41,8 @@
 </a>
 
 </p>
+
+*(swap in your real LinkedIn link above)*
 
 ---
 
@@ -97,7 +99,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Yasar-17&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Yasar-17&theme=tokyonight&hide_border=true"/>
 
 </div>
 
