@@ -82,7 +82,7 @@
 |---|---|---|
 | 🧠 **[Face Generation Using GANs](https://github.com/Yasar-17/Face-Generation-Using-GANs)** | A GAN model trained to generate and recognize synthetic human faces | Python |
 | 🛡️ **[jansuraksha](https://github.com/Yasar-17/jansuraksha)** *(contributor)* | Scam-link and UPI fraud detector that flags suspicious payment links | Next.js, TypeScript |
-| 🎨 **[Zenny Studios](https://zenny-studios.vercel.app)** *(client project)* | Full website build for a client — home, services, work, contact, and an admin panel | HTML, CSS, JavaScript, Backend |
+| 🎨 **[Zenny Studios](https://zennystudios.in)** *(client project)* | Full website build for a client — home, services, work, contact, and an admin panel | HTML, CSS, JavaScript, Backend |
 
 ---
 
