@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/1200x/f2/9f/7a/f29f7af6b35e675f2902acd33c7c6e17.jpg" width="100%" alt="banner"/>
+<img src="https://i.pinimg.com/1200x/f2/9f/7a/f29f7af6b35e675f2902acd33c7c6e17.jpg" width="650" alt="banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=cfff0b&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Yasar+%F0%9F%91%8B;Data+Engineer;AI+Engineer;Frontend+Developer;AI-Augmented+Builder+%F0%9F%9A%80" />
 
@@ -9,6 +9,10 @@
 ---
 
 ## 🚀 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 🔧 Data Engineer at heart — I like building the pipelines and systems that move and shape data
 
@@ -23,6 +27,13 @@
 🛠️ Work across SQL, Python, and data workflows, plus frontend (HTML5, Tailwind CSS, JavaScript, growing React)
 
 💡 I call myself an **AI-augmented builder**: I use AI tools to move fast, but I still understand and own every line I ship
+
+</td>
+<td width="40%" valign="top">
+<img src="https://i.pinimg.com/1200x/a4/91/7a/a4917ac64e9b90132b5e788dec619049.jpg" width="100%" alt="pixel cat"/>
+</td>
+</tr>
+</table>
 
 ---
 
