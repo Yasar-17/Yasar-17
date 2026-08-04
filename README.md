@@ -2,7 +2,7 @@
 
 <img src="https://i.pinimg.com/1200x/f2/9f/7a/f29f7af6b35e675f2902acd33c7c6e17.jpg" width="100%" height="650" alt="banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=cfff0b&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Yasar+%F0%9F%91%8B;Data+Engineer;AI+Engineer;Frontend+Developer;AI-Augmented+Builder+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Yasar+%F0%9F%91%8B;Data+Engineer;AI+Engineer;Frontend+Developer;AI-Augmented+Builder+%F0%9F%9A%80" />
 
 </div>
 
