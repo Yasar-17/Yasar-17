@@ -14,9 +14,9 @@
 <tr>
 <td width="60%" valign="top">
 
-🔧 Data Engineer at heart — I like building the pipelines and systems that move and shape data
+🔧 Data Engineer at heart — I like building the pipelines and systems that move and shape data.
 
-🤖 Also work on AI engineering — applying ML/AI models to real problems, not just notebooks
+🤖 Also work on AI engineering — applying ML/AI models to real problems, not just notebooks.
 
 🎓 Third-year B.Tech student in Artificial Intelligence & Data Science, Anna University (R2021)
 
