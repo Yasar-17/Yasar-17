@@ -22,8 +22,6 @@
 
 📍 Vellore, Tamil Nadu, India
 
-🧭 Session In-Charge for the Students Guidance Cell (SGC) at my college
-
 🛠️ Work across SQL, Python, and data workflows, plus frontend (HTML5, Tailwind CSS, JavaScript, growing React)
 
 💡 I call myself an **AI-augmented builder**: I use AI tools to move fast, but I still understand and own every line I ship
