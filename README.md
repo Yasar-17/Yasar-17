@@ -20,7 +20,7 @@
 
 🎓 Third-year B.Tech student in Artificial Intelligence & Data Science, Anna University (R2021)
 
-📍 Vellore, Tamil Nadu, India
+📍 Bengaluru, Karnataka, India
 
 🛠️ Work across SQL, Python, and data workflows, plus frontend (HTML5, Tailwind CSS, JavaScript, growing React)
 
