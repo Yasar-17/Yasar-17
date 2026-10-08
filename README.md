@@ -22,11 +22,9 @@
 
 🛠️ Main tools: Python, Pandas, NumPy, scikit-learn. I also build web apps with JavaScript, TypeScript, Tailwind CSS and React.
 
-🏆 Hackathons: Smart India Hackathon (SIH26162), Odoo x NMIT, Hackulus '26
+🏆 Winner Of Hackulus '26 (Hackathon conduced by VIT)
 
-🌐 Founder of JYAM, a small web agency. I have shipped client websites such as Zenny Studios.
-
-🌍 Open to internships, remote or on-site, including in Japan.
+🌍 Open to internships, remote or on-site.
 
 💡 I use AI tools to move fast, and I can explain every line I ship.
 
